@@ -1,1 +1,1 @@
-**View Demo** [Click Here] (https://mahirmmk.github.io/resume/)
+**View Demo**  (https://mahirmmk.github.io/resume/)
